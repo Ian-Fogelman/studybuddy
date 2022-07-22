@@ -6,7 +6,7 @@ cd myworkingdir
 docker pull mysql
 docker run -d --name mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=secret -e MYSQL_DATABASE=mySchema mysql:latest
 ```
-
+### PERMISSIONS AND SCHEMA
 ``` sql
 USE mySchema;
 
