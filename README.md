@@ -20,9 +20,8 @@ fact varchar(8000)
 
 INSERT INTO fact
 values(1,'Flows can be scheduled in salesforce')
-```
-
 # username:root password:secret
+```
 ### SETUP LOOPBACK APP
 ```
 lb4 app studybuddy
