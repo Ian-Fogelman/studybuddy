@@ -1,5 +1,5 @@
 # studybuddy
-###SETUP MYSQL INSTANCE
+### SETUP MYSQL INSTANCE
 ```
 powershell
 cd myworkingdir
@@ -23,7 +23,7 @@ values(1,'Flows can be scheduled in salesforce')
 ```
 
 # username:root password:secret
-###SETUP LOOPBACK APP
+### SETUP LOOPBACK APP
 ```
 lb4 app studybuddy
 cd studybuddy
